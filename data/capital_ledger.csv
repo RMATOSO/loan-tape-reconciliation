@@ -1,0 +1,57 @@
+date,type,loan_id,amount
+2025-10-15,Investor capital in,,2400000
+2025-11-05,Funding,L-0101,-185000
+2025-11-19,Funding,L-0102,-85000
+2025-11-30,Investor distribution,,-20000
+2025-11-30,Operating costs,,-8000
+2025-12-10,Funding,L-0103,-185000
+2025-12-18,Funding,L-0104,-110000
+2025-12-31,Investor distribution,,-20000
+2025-12-31,Operating costs,,-8000
+2026-01-02,Funding,L-0105,-110000
+2026-01-16,Funding,L-0106,-110000
+2026-01-31,Investor distribution,,-20000
+2026-01-31,Operating costs,,-8000
+2026-02-14,Funding,L-0108,-185000
+2026-02-28,Investor distribution,,-20000
+2026-02-28,Operating costs,,-8000
+2026-03-01,Funding,L-0109,-85000
+2026-03-15,Funding,L-0110,-140000
+2026-03-30,Funding,L-0111,-85000
+2026-03-31,Investor distribution,,-20000
+2026-03-31,Operating costs,,-8000
+2026-04-13,Funding,L-0112,-85000
+2026-04-28,Funding,L-0113,-110000
+2026-04-30,Investor distribution,,-20000
+2026-04-30,Operating costs,,-8000
+2026-05-12,Funding,L-0114,-110000
+2026-05-18,Payoff,L-0102,90030.14
+2026-05-18,Payoff,L-0103,195035.62
+2026-05-27,Funding,L-0115,-160000
+2026-05-27,Funding,L-0115,-160000
+2026-05-29,Investor capital in,,900000
+2026-05-31,Investor distribution,,-20000
+2026-05-31,Operating costs,,-8000
+2026-06-10,Funding,L-0116,-160000
+2026-06-25,Funding,L-0117,-85000
+2026-06-30,Investor distribution,,-20000
+2026-06-30,Operating costs,,-8000
+2026-07-09,Funding,L-0118,-160000
+2026-07-10,Payoff,L-0106,116328.77
+2026-07-11,Payoff,L-0108,193940.82
+2026-07-24,Funding,L-0119,-110000
+2026-07-31,Investor distribution,,-20000
+2026-07-31,Operating costs,,-8000
+2026-08-07,Funding,L-0120,-185000
+2026-08-22,Funding,L-0121,-185000
+2026-08-31,Investor distribution,,-20000
+2026-08-31,Operating costs,,-8000
+2026-09-05,Funding,L-0122,-185000
+2026-09-18,Funding,L-0125,-95000
+2026-09-20,Funding,L-0123,-160000
+2026-09-30,Investor distribution,,-20000
+2026-09-30,Operating costs,,-8000
+2026-10-04,Funding,L-0124,-140000
+2026-10-08,Payoff,L-0112,87474.25
+2026-10-31,Investor distribution,,-20000
+2026-10-31,Operating costs,,-8000
